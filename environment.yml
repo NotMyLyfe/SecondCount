@@ -1,0 +1,9 @@
+name: SecondCount
+channels:
+  - defaults
+  - conda-forge
+  - pytorch
+dependencies:
+  - ipykernel
+  - pytorch::pytorch
+  - tensorboard
