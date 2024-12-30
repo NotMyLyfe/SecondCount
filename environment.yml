@@ -8,3 +8,4 @@ dependencies:
   - pytorch::pytorch
   - tensorboard
   - pandas
+  - requests
