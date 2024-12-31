@@ -9,4 +9,6 @@ dependencies:
   - tensorboard
   - pandas
   - requests
-  - conda-forge::biopython>=1.84
+  - conda-forge::biopython
+  - multiprocess
+  - matplotlib
