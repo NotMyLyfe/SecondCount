@@ -9,4 +9,4 @@ dependencies:
   - tensorboard
   - pandas
   - requests
-  - biopython
+  - conda-forge::biopython>=1.84
