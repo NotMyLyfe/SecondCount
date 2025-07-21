@@ -5,7 +5,6 @@ channels:
   - pytorch
 dependencies:
   - ipykernel
-  - pytorch==2.5.1
   - tensorboard
   - pandas
   - requests
