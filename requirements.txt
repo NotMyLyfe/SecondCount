@@ -45,8 +45,6 @@ multidict==6.1.0
 multiprocess==0.70.15
 nest-asyncio==1.6.0
 networkx==3.4.2
-numexpr==2.10.1
-numpy==1.26.4
 opentelemetry-api==1.26.0
 packaging==24.2
 pandas==2.2.3
