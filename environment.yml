@@ -14,3 +14,4 @@ dependencies:
   - conda-forge::transformers
   - scikit-learn
   - torchmetrics
+  - numpy
